@@ -1,5 +1,5 @@
 #Lembrando que para elaborar um projeto simples desse não precisa utilizar Spring Boot, certo?
-Utilize para apenas para fins de aprendizado, mas o projeto pode ser feito sem ele.
+Utilizei apenas para fins de aprendizado, mas o projeto pode ser feito sem ele.
 
 # Empresa
 
